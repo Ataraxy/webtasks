@@ -3,6 +3,4 @@ module.exports = function (context, req, res) {
   res.end(JSON.stringify(req.headers));
 };
 function test(){
-  // toestoooesoooe
-tooo
 }
